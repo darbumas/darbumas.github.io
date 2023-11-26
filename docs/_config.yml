@@ -21,10 +21,8 @@
 title: SynthSculptor
 email: bbwashi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A dynamic gallery chronicling both ongoing and past projects. Each endeavor is
-  a unique sculpture in the ever-evolving landscape of technology. Immerse
-  yourself in the harmonious blend of algorithms and creativity, where every
-  line of code resonates like notes in a grand composition.
+  A dynamic gallery chronicling both ongoing and past projects. Immerse
+  yourself in the harmonious blend of algorithms and creativity.
 domain: darbumas.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://darbumas.github.io
