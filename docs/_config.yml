@@ -24,13 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   A dynamic gallery chronicling both ongoing and past projects. Each endeavor is
   a unique sculpture in the ever-evolving landscape of technology. Immerse
   yourself in the harmonious blend of algorithms and creativity, where every
-  line of code resonates like notes in a grand composition. Explore the
-  intersection of innovation and artistry at SynthSculptor, where software
-  engineering becomes a captivating journey through digital landscapes.
+  line of code resonates like notes in a grand composition.
 domain: darbumas.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://darbumas.github.io
-twitter_username: ""
+twitter_username: darbumas
 github_username:  darbumas
 
 # Build settings
