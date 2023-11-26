@@ -1,9 +1,9 @@
 # site settings
 
-title: SynthSculptor
+title: Logic Lockpick
 description: A dynamic gallery chronicling both ongoing and past projects.
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Picking the locks of code and complexity
+tagshort: Unlock the logic, hack the world
 url: https://darbumas.github.io
 baseurl: ""
 permalink: pretty
