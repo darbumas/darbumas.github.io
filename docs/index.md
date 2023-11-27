@@ -9,7 +9,7 @@ Welcome to B's Digital Space! 🚀 As a software engineer with a deep love for l
 
 📚 Dive into tutorials that unravel the mysteries of languages like C, C++, Python, and more. Whether you're a coding enthusiast or a seasoned developer, there's always room to learn and grow together.
 
-📰 Stay tuned for captivating [blogs](/posts) that chronicle the challenges, triumphs, and lessons learned in the world of software engineering. From project insights to industry trends, this space is a melting pot of knowledge and discovery.
+📰 Stay tuned for captivating [blogs](/_posts) that chronicle the challenges, triumphs, and lessons learned in the world of software engineering. From project insights to industry trends, this space is a melting pot of knowledge and discovery.
 
 Join me on this digital odyssey, where software engineering meets creativity, and the possibilities are as boundless as lines of code. Let's code, innovate, and learn together!"
 
